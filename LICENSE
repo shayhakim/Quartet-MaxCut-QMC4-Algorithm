@@ -1,0 +1,63 @@
+QMC4 RESEARCH AND EVALUATION LICENSE
+Version 1.0 - 4 November 2026
+
+Copyright (c) 2026 Shay Hakim and Sagi Snir. All rights reserved.
+
+This is a source-available research and evaluation license, not an open-source
+license. It applies only to materials whose rights the above copyright holders
+have authority to license. Rights in separately identified third-party materials
+remain with their respective owners.
+
+1. COVERED MATERIALS
+"Materials" means the QMC4 and wQMC4 software distributed in this repository
+or its associated releases, including selected source files, executables,
+verification and plotting scripts, data tables, figures, and documentation,
+to the extent those items are owned by the copyright holders.
+
+2. LIMITED RESEARCH PERMISSION
+Subject to these terms, the copyright holders grant a non-exclusive,
+non-transferable, non-sublicensable, royalty-free permission to download,
+inspect, and execute the Materials solely for non-commercial academic
+research, teaching, peer review, evaluation, and reproduction or verification
+of the research results. You may retain internal copies and make internal
+modifications strictly as necessary for these permitted purposes. You may
+publish your independently authored scientific observations and numerical
+results obtained through permitted use, with appropriate scholarly citation.
+
+3. RESTRICTIONS
+Except with the prior written permission of the copyright holders, you may not:
+(a) redistribute, publish, sublicense, sell, rent, or provide any source code,
+    executable, or modified or derivative version of the Materials to others;
+(b) incorporate the Materials, their code, or substantial portions into any
+    other software product, library, service, or research implementation;
+(c) use the Materials for commercial purposes or for commercial advantage;
+(d) remove or misrepresent ownership, copyright, authorship, or license notices.
+
+These conditions do not restrict independently developed implementations or
+acts permitted by applicable law that do not require copyright permission.
+
+4. ATTRIBUTION
+For academic publications or public reports materially relying on the
+Materials or results generated from them, cite the associated paper by
+Shay Hakim and Sagi Snir, "Accurate Large-Scale Phylogenetic Reconstruction
+Using Sparse Random Quartet Samples" (2026). Preserve notices in internal
+copies as permitted above.
+
+5. RESERVED RIGHTS AND PERMISSIONS
+All rights not expressly granted are reserved. No patent or trademark license
+is granted. Requests for redistribution, commercial licensing, integration,
+or other permissions may be addressed to the rights holders through the
+GitHub repository's Issues or contact channels:
+https://github.com/shayhakim/Quartet-MaxCut-QMC4-Algorithm
+
+6. NO WARRANTY AND LIMITATION OF LIABILITY
+THE MATERIALS ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND
+NONINFRINGEMENT, TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW. TO THAT
+EXTENT, THE COPYRIGHT HOLDERS SHALL NOT BE LIABLE FOR DAMAGES ARISING FROM
+USE OF THE MATERIALS.
+
+7. TERMINATION
+This permission terminates upon material breach of these terms. Termination
+does not revoke rights granted independently by law or under an applicable
+third-party license.
