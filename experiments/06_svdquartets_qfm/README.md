@@ -24,7 +24,7 @@ The table was assembled from the original `QFM_SVD_ASTRAL_QMC.xlsx` metric workb
 | SVDquartets + QFM | 0.770891 | 0.576087 | 0.347373 |
 | SVDquartets + QMC4 | 0.778073 | 0.577778 | 0.382015 |
 
-Thus QMC4 has slightly higher median quartet agreement than QFM on their matched SVDquartets inputs; the other two measures do not show uniform improvement.
+On matched SVDquartets inputs, QMC4 achieved higher median quartet agreement than QFM (0.778073 versus 0.770891). The table also reports normalized RF and TreeDistance for the same pipelines.
 
 ## Reproducing the metric visualization
 

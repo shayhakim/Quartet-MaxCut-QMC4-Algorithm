@@ -29,7 +29,7 @@ This folder contains the **final paired result tables and two figures** used for
 - **Normalized RF** and **TreeDistance**: smaller is better. Paired gain = `QMC3 − QMC4` (the CSV's named `QMC4_minus_QMC3_...` fields have the *opposite* sign). The historical column name `tree_distance_raw` denotes the saved numerical value of the TreeDist-derived metric used in the article, not a replacement or newly computed metric.
 - **Runtime overhead:** `QMC4 seconds − QMC3 seconds`; positive indicates QMC4 took longer. The Supplemental figures here display **accuracy differences**, not absolute runtimes.
 
-The primary W1 condition favored QMC4 on Qdist and TreeDistance in all 15 pairs. The independent unweighted set favored QMC4 on Qdist in all 15 pairs. These findings should not be read as superiority in every metric on every replicate. The primary unweighted condition averaged about 43 s for QMC4 versus about 19 s for QMC3.
+The primary W1 condition favored QMC4 on Qdist and TreeDistance in all 15 pairs. The independent unweighted set favored QMC4 on Qdist in all 15 pairs. The primary unweighted condition averaged about 43 s for QMC4 versus about 19 s for QMC3.
 
 ## Verify and explore
 

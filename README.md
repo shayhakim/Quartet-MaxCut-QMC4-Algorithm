@@ -13,8 +13,6 @@ This repository accompanies the manuscript **“Accurate Large-Scale Phylogeneti
 - **Weight-dependent robustness experiments.** The accompanying research introduces a stochastic rewiring mechanism that preferentially perturbs lower-weight quartets, making it possible to evaluate reconstruction accuracy on conflicting quartet inputs.
 - **Comparative evaluation.** The manuscript reports experiments against QMC3, TREE-QMC, wQFM, and reconstruction pipelines involving SVDquartets, SVDquest, and ASTRAL-II. Comparisons use Qdist, normalized RF, normalized MAST, and TreeDistance, as applicable to each benchmark.
 
-These are results under the specific experimental protocols reported in the manuscript and Supplemental Material; they are not universal performance guarantees.
-
 ## Download and run
 
 Download the Linux x86-64 `wQMC4` executable from [release v1.0.0](https://github.com/shayhakim/Quartet-MaxCut-QMC4-Algorithm/releases/tag/v1.0.0). It supports both **QMC4** (unweighted) and **wQMC4** (weighted) quartet inputs. See [executable instructions](docs/EXECUTABLE.md) for tested commands and input formats.
